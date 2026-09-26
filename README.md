@@ -96,5 +96,5 @@ All_data函数：
 Platform_sentiment函数：
 利用matplotlib绘制每个平台的用户对于不同评论对象的每日平均正负向评论情感分变化。
 
-<img width="432" height="638" alt="image" src="https://github.com/user-attachments/assets/70208d1b-ee20-4fbc-8346-88dc14c242af" />
+
 # social-media-data-analysis
